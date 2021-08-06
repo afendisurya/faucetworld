@@ -1,0 +1,21 @@
+ v1..0.1
+
+Main Feature :
+*. Payout to EC Id
+
+Whats's New :
+*. 
+
+Fix :
+*. Tidak Ada Waktu
+*. Tidak Ada PAYOUT
+*. Ganti Token ke ID
+
+Changes and Improvements :
+*
+
+Upgrade :
+*
+
+Bug :
+*.  -

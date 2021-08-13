@@ -18,4 +18,4 @@ Upgrade :
 *
 
 Bug :
-*.  -
+*.  Jika tidak sesuai crypto silahkan buka web lagi

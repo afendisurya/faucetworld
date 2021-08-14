@@ -1,0 +1,12 @@
+# v1.0.0
+
+Main Feature :
+*. Payout to wallet
+
+What's New :
+*. Added EC Id
+*. Added Payout
+*. Added Token
+
+Bug :
+*. -
